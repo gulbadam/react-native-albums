@@ -23,7 +23,7 @@ const styles = {
     shadowOpacity: 0.5,
     elevation: 2,
     position: 'relative',
-    borderBottomColor: 'blue',
+    //borderBottomColor: 'blue',
     borderBottomEndRadius: 40,
     borderBottomStartRadius: 40,
 
